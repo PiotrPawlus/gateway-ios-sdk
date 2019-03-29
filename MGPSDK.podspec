@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "MGPSDK"
   s.version      = "0.1"
-  s.summary      = ""
+  s.summary      = "Mastercard Payment Gateway Services"
   s.description  = <<-DESC
     Your description here.
   DESC
